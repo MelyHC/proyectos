@@ -6,7 +6,7 @@ var respuestasIncorrectas= document.getElementById('respuestasIncorrectas');
 function ingresar(){
   var nombreUsuario = document.getElementsByName('nombre')[0].value;
   saludarUsario.innerHTML = "😊 Bienvenid@ " + nombreUsuario + " 😊" ;
-  document.getElementByName('ingreNom').style.display = 'none';
+  function(document.getElementByName('ingreNom').style.display = 'none';
 }
 function mensaje() {
 
